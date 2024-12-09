@@ -25,6 +25,8 @@ for [STFormer](https://www.dropbox.com/scl/fo/ojogcdpsg3wiskrfdkdqk/AJAr12AgxS5z
 
 4. Navigate to respective baseline directories for the instructions on how to run the baselines.
 
+See the [report](/report.pdf) for more details.
+
 ## Citation
 If you find our work interesting, please consider citing
 
