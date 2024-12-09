@@ -64,7 +64,7 @@ git clone https://github.com/LeviBorodenko/motionblur motionblur
 Install dependencies
 
 ```
-conda create -n DPS python=3.8
+conda create -n DPS python=3.9
 
 conda activate DPS
 

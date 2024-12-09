@@ -1,10 +1,14 @@
 **/inputs/
 **/outputs/
 **/__pycache__/
-**/data/
+t7_simulation/data/
 **/bora_data/
 **/nfs_data/
 **/*.zip
+
+diffusion_posterior_sampling/results/
+
+**/models
 
 **/*/__pycache__
 *.out
