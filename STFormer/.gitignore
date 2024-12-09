@@ -1,0 +1,9 @@
+**/*/__pycache__
+work_dirs/
+train_dir/
+train_dir_4/
+train_dir_6/
+train_dir_8/
+*.out
+checkpoints/
+work_eval/

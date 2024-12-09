@@ -1,0 +1,18 @@
+conditioning:
+  method: ps
+  params:
+    scale: 0.5
+
+data:
+  name: ffhq
+  root: ./data/coded_samples/
+
+measurement:
+  operator:
+    name: coded_inverse
+    subframes: 4
+    code_type: simple
+  
+  noise: 
+    name: gaussian
+    sigma: 0.00

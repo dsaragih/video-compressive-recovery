@@ -1,0 +1,19 @@
+conditioning:
+  method: ps
+  params:
+    scale: 1.0
+
+data:
+  name: video
+  root: ./data/dps_cacti/
+
+measurement:
+  subframes: 16
+  operator:
+    name: coded_inverse
+    subframes: 16
+    code_type: simple
+  
+  noise: 
+    name: gaussian
+    sigma: 0.00

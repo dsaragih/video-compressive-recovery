@@ -1,3 +1,20 @@
+**/inputs/
+**/outputs/
+**/__pycache__/
+**/data/
+**/bora_data/
+**/nfs_data/
+**/*.zip
+
+**/*/__pycache__
+*.out
+checkpoints/
+work_eval/
+
+**/.DS_Store
+
+**/*.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
